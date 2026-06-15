@@ -1,6 +1,6 @@
 # 🛡️ Josher | Cybersecurity Analyst Candidate
 
-**Certifications:** CompTIA Security+ 
+**Certifications**: CompTIA Security+ 
 
 I am a defensive security researcher focusing on threat detection, log analysis, and incident response. I build custom detection engineering logic and analyze post-exploitation environments to understand attacker behavior.
 
@@ -17,3 +17,5 @@ I am a defensive security researcher focusing on threat detection, log analysis,
 > **[Incident-Investigations](https://github.com/ansil-prof/Incident-Investigations)**
 > Executive-level post-incident reports from compromised environments (HackTheBox / TryHackMe). Documenting the attack chain, Indicators of Compromise (IOCs), and remediation steps.
 
+## 📫 Connect
+* **LinkedIn:** www.linkedin.com/in/ansilgeorge-new
