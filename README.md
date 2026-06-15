@@ -2,7 +2,7 @@
 
 **Certifications**: CompTIA Security+ 
 
-I am a defensive security researcher focusing on threat detection, log analysis, and incident response. I build custom detection engineering logic and analyze post-exploitation environments to understand attacker behavior.
+I am a security researcher focusing on threat detection, log analysis, and incident response. I build custom detection engineering logic and analyze post-exploitation environments to understand attacker behavior.
 
 ## ⚙️ Technical Arsenal
 * **Defensive Operations:** SIEM (Splunk, Elastic), Log Analysis, OSINT
